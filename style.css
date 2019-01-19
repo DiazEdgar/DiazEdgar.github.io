@@ -13,10 +13,17 @@ h1
     1px 1px 0 #000;
 	}
 
-	p {
+p {
 	  text-align: center;
 	}
-	
+
+ul{
+	text-align: center;
+	list-style: none;
+	color: white; 
+}
+
+
 html{
 	background-image: url('images/astros.jpg');
 	height: 100%
